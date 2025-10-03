@@ -1,2 +1,2 @@
 # DSA using Java
-I covered the Function or method in this repository , codes are also here which belongs to functions / methods
+Welcome to my repository , In this repo.. i covered DSA using Java with all topics and Important problems with solution which is asked in Companies
